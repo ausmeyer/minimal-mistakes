@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Evolutionary Virology
 locale:           en_US
 url:
 
@@ -41,12 +41,12 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: "Austin Meyer, PhD, MS"
+  avatar: bio-photo.png
+  bio: "MS III at Texas Tech University Health Sciences Center and Visiting Scholar at the University of Texas at Austin."
+  email: austin.g.meyer@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: austingmeyer
   facebook: #username
   google:
     plus: #username
@@ -55,9 +55,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: ausmeyer
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: austinmeyer
   xing: #username
   instagram: #username
   lastfm: #username

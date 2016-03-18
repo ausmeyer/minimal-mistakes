@@ -1,10 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Research
+  url: /research/
 
-- title: Sample Posts
-  url: /posts/
+- title: CV
+  url: /files/meyer-cv.pdf
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Publications
+  url: /publications/
+
+- title: Extras
+  url: /extras/
